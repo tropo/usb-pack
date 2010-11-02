@@ -3,5 +3,5 @@
 echo "Updating from github"
 git submodule --quiet update
 echo "Creating zip"
-tar --exclude=.git --exclude=bundle.sh -czf ../tropo-usb.tar.gz *
+tar --exclude=.git --exclude=bundle.sh --exclude=loader.sh -czf ../tropo-usb.tar.gz *
 echo "../tropo-usb.tar.gz created" 
