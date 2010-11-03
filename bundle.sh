@@ -1,7 +1,14 @@
 #!/bin/bash
 ## Bundle the directory into a zip file for upload
-echo "Updating from github"
+
+if [ "$1" != 'quiet' ]; then
+  echo "Updating from github"
+fi
 git submodule --quiet update
-echo "Creating zip"
-tar --exclude=.git --exclude=bundle.sh --exclude=loader.sh -czf ../tropo-usb.tar.gz *
-echo "../tropo-usb.tar.gz created" 
+if [ "$1" != 'quiet' ]; then
+  echo "Creating zip"
+fi
+tar --exclude=.git --exclude=bundle.sh --exclude=install.sh -czf ../tropo-usb.tar.gz *
+if [ "$1" != 'quiet' ]; then
+  echo "../tropo-usb.tar.gz created" 
+fi
