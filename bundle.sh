@@ -4,6 +4,7 @@
 if [ "$1" != 'quiet' ]; then
   echo "Updating from github"
 fi
+git pull --quiet
 git submodule --quiet update
 if [ "$1" != 'quiet' ]; then
   echo "Creating zip"
