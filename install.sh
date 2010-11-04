@@ -3,10 +3,9 @@
 
 function installme {
   cp -R /tmp/tropo/* /Volumes/Tropo
-  diskutil quiet eject /Volumes/Tropo
-  echo "** The drive has been ejected and is safe to remove. **"
-  #read -p "Would you like to do another (make sure a fresh drive is inserted first)? (y/n):"
-  #[ "$REPLY" == "y" ] || installme 
+  diskutil eject /Volumes/Tropo
+  read -p "Do you have another drive inserted you would like to install to? (y/n):"
+  [ "$REPLY" != "y" ] || installme 
 }
 
 echo "Checking for updates..."
