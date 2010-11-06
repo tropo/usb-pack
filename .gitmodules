@@ -1,51 +1,51 @@
 [submodule "examples"]
 	path = examples
-	url = git@github.com:tropo/tropo-samples.git
+	url = git://github.com/tropo/tropo-samples.git
 [submodule "libraries/tropo-webapi-node"]
 	path = libraries/tropo-webapi-node
-	url = http://github.com/tropo/tropo-webapi-node
+	url = git://github.com/tropo/tropo-webapi-node
 [submodule "libraries/tropo-webapi-csharp"]
 	path = libraries/tropo-webapi-csharp
-	url = http://github.com/tropo/tropo-webapi-csharp
+	url = git://github.com/tropo/tropo-webapi-csharp
 [submodule "libraries/tropo-webapi-php"]
 	path = libraries/tropo-webapi-php
-	url = http://github.com/tropo/tropo-webapi-php
+	url = git://github.com/tropo/tropo-webapi-php
 [submodule "libraries/tropo-webapi-python"]
 	path = libraries/tropo-webapi-python
-	url = http://github.com/tropo/tropo-webapi-python
+	url = git://github.com/tropo/tropo-webapi-python
 [submodule "applications/tropo-agitate"]
 	path = applications/tropo-agitate
-	url = git@github.com:tropo/tropo-agitate.git
+	url = git://github.com/tropo/tropo-agitate.git
 [submodule "applications/tropo-volunteer"]
 	path = applications/tropo-volunteer
-	url = git@github.com:tropo/tropo-volunteer.git
+	url = git://github.com/tropo/tropo-volunteer.git
 [submodule "applications/tropo-results-mongoDB"]
 	path = applications/tropo-results-mongoDB
-	url = git@github.com:tropo/tropo-results-mongoDB.git
+	url = git://github.com/tropo/tropo-results-mongoDB.git
 [submodule "applications/tropo-transcriptions"]
 	path = applications/tropo-transcriptions
-	url = git@github.com:tropo/tropo-transcriptions.git
+	url = git://github.com/tropo/tropo-transcriptions.git
 [submodule "applications/tropo-audiofiles-to-s3"]
 	path = applications/tropo-audiofiles-to-s3
-	url = git@github.com:tropo/tropo-audiofiles-to-s3.git
+	url = git://github.com/tropo/tropo-audiofiles-to-s3.git
 [submodule "applications/openvoice"]
 	path = applications/openvoice
-	url = http://github.com/openvoice/openvoice.git
+	url = git://github.com/openvoice/openvoice.git
 [submodule "libraries/tropo-webapi-ruby"]
 	path = libraries/tropo-webapi-ruby
-	url = git@github.com:tropo/tropo-webapi-ruby.git
+	url = git://github.com/tropo/tropo-webapi-ruby.git
 [submodule "applications/Tropo-Twitter-by-Phone"]
 	path = applications/Tropo-Twitter-by-Phone
-	url = git@github.com:voxeo/Tropo-Twitter-by-Phone.git
+	url = git://github.com/voxeo/Tropo-Twitter-by-Phone.git
 [submodule "phono/PhonoSDK"]
 	path = phono/PhonoSDK
-	url = http://github.com/phono/PhonoSDK.git
+	url = git://github.com/phono/PhonoSDK.git
 [submodule "phono/Facebook-Telephone"]
 	path = phono/Facebook-Telephone
-	url = http://github.com/phono/Facebook-Telephone.git
+	url = git://github.com/phono/Facebook-Telephone.git
 [submodule "phono/Twelephone"]
 	path = phono/Twelephone
-	url = http://github.com/phono/Twelephone.git
+	url = git://github.com/phono/Twelephone.git
 [submodule "applications/tropo_access_num"]
 	path = applications/tropo_access_num
-	url = http://github.com/mikesoares/tropo_access_num.git
+	url = git://github.com/mikesoares/tropo_access_num.git
