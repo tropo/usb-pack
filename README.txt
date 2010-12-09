@@ -15,11 +15,11 @@ existing web server in the language of your choice.
 Tropo adds a few simple communications commands to your favorite programming
 languages.
 
-<?php
-answer();
-say('Yes, Tropo is this easy.');
-// Yup, that's it!
-?>
+		<?php
+		answer();
+		say('Yes, Tropo is this easy.');
+		// Yup, that's it!
+		?>
 
 To use these samples, you'll need a Tropo account. Tropo is 100% free for developer 
 usage, and you only start to pay when you move your application into production. 
@@ -30,3 +30,7 @@ ready to help. Just send an email to support@tropo.com.
 
 Unless otherwise noted, all code in on this USB drive is released under the MIT 
 License.
+
+The contents of this drive (including an installer to build your own drives)
+are on Github: http://github.com/tropo/usb-pack and a description of how we build
+the drives is at http://blog.tropo.com/tag/usb/
