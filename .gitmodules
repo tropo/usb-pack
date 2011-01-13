@@ -49,3 +49,6 @@
 [submodule "applications/tropo_access_num"]
 	path = applications/tropo_access_num
 	url = git://github.com/mikesoares/tropo_access_num.git
+[submodule "applications/phonepoll"]
+	path = applications/phonepoll
+	url = git@github.com:akalsey/phonepoll.git

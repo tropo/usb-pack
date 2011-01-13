@@ -10,6 +10,11 @@ An open source clone of Google Voice, add phones, redirect calls take voice
 mail, including transcription. Written in Ruby on Rails by Zhao Lu (@zlu on
 Twitter)
 
+phonepoll
+---------
+
+A Drupal module to allow phone and SMS voting on Drupal polls.
+
 tropo-agitate 
 -------------
 
