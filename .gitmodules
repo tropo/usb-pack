@@ -52,3 +52,6 @@
 [submodule "applications/phonepoll"]
 	path = applications/phonepoll
 	url = git@github.com:akalsey/phonepoll.git
+[submodule "applications/cloudfiles-poster"]
+	path = applications/cloudfiles-poster
+	url = git://github.com/akalsey/cloudfiles-poster
