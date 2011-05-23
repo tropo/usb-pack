@@ -55,3 +55,9 @@
 [submodule "applications/cloudfiles-poster"]
 	path = applications/cloudfiles-poster
 	url = git://github.com/akalsey/cloudfiles-poster
+[submodule "applications/drupal_sms"]
+	path = applications/drupal_sms
+	url = git://github.com/tropo/sms_tropo
+[submodule "applications/drupal-framework-demo"]
+	path = applications/drupal-framework-demo
+	url = git://github.com/akalsey/drupal-framework-demo
