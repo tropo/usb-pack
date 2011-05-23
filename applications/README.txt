@@ -8,7 +8,7 @@ cloudfiles-poster
 
 Makes posting to Rackspace Cloud Files as easy as uploading a file with a web 
 form. Includes a demo application that sends Tropo recordings to your Cloud Files
-account.
+account. From http://github.com/akalsey/cloudfiles-poster
 
 drupal-framework-demo
 ---------------------
@@ -16,7 +16,7 @@ drupal-framework-demo
 A companion module to Tropo's talk on using Drupal as a web application framework.
 Shows how to use Drupal to build a platform for working with web services by
 accepting phone calls from Tropo and storing information about the call in Drupal
-nodes.
+nodes. From http://github.com/akalsey/drupal-framework-demo
 
 drupal_sms
 ----------
@@ -29,19 +29,20 @@ openvoice
 
 An open source clone of Google Voice, add phones, redirect calls take voice
 mail, including transcription. Written in Ruby on Rails by Zhao Lu (@zlu on
-Twitter)
+Twitter). From http://github.com/openvoice/openvoice
 
 phonepoll
 ---------
 
-A Drupal module to allow phone and SMS voting on Drupal polls.
+A Drupal module to allow phone and SMS voting on Drupal polls. From
+http://github.com/akalsey/phonepoll
 
 tropo-agitate 
 -------------
 
 Clones the Asterisk AGI in Tropo. Put this application in your account and
 you can run AGI apps on Tropo, making Tropo the world's largest Asterisk
-cloud.
+cloud. From https://github.com/tropo/tropo-agitate
 
 tropo-audiofiles-to-s3 
 -----------------------
@@ -52,7 +53,7 @@ pushing them to Amazon S3
 tropo-results-mongoDB 
 ---------------------
 
-Uses Sinatra to catch Tropo transcription results to MongoDB on Heroku
+Uses Sinatra to catch Tropo transcription results to MongoDB on Heroku. From http://github.com/tropo/tropo-results-mongoDB
 
 tropo-transcriptions 
 --------------------
@@ -66,9 +67,16 @@ tropo-volunteer
 ---------------
 
 Detailed Sinatra application for finding local volunteer opportunities.
-Also see http://tropo.heroku.com/
+Also see http://tropo.heroku.com/. From http://github.com/tropo/tropo-volunteer
+
+tropo_access_num
+----------------
+
+Route calls through Tropo to your own phone. From 
+http://github.com/mikesoares/tropo_access_num
 
 Tropo-Twitter-by-Phone 
 ---------------------
 
-Star Tropo Application that reads your tweets to you.
+Star Tropo Application that reads your tweets to you. From 
+http://github.com/voxeo/Tropo-Twitter-by-Phone
