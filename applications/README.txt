@@ -3,6 +3,27 @@ Tropo Sample Applications
 
 This directory contains some samples created with Tropo.
 
+cloudfiles-poster
+-----------------
+
+Makes posting to Rackspace Cloud Files as easy as uploading a file with a web 
+form. Includes a demo application that sends Tropo recordings to your Cloud Files
+account.
+
+drupal-framework-demo
+---------------------
+
+A companion module to Tropo's talk on using Drupal as a web application framework.
+Shows how to use Drupal to build a platform for working with web services by
+accepting phone calls from Tropo and storing information about the call in Drupal
+nodes.
+
+drupal_sms
+----------
+
+A plugin for Drupal's SMS Framework module that allows you to use Tropo's low SMS
+prices for Drupal applications.
+
 openvoice
 ----------
 
