@@ -61,3 +61,9 @@
 [submodule "applications/drupal-framework-demo"]
 	path = applications/drupal-framework-demo
 	url = git://github.com/akalsey/drupal-framework-demo
+[submodule "phono/callme-button"]
+	path = phono/callme-button
+	url = https://github.com/phono/callme
+[submodule "phono/demo"]
+	path = phono/demo
+	url = https://github.com/phono/barcamp-orlando-2011.git

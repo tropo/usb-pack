@@ -21,6 +21,10 @@ languages.
 		// Yup, that's it!
 		?>
 
+Also included here is Phono - Tropo's jquery plugin that turns any browser into a 
+phone and IM client. Phono is open source and we've included both sample applications
+and the source code of the core components.
+
 To use these samples, you'll need a Tropo account. Tropo is 100% free for developer 
 usage, and you only start to pay when you move your application into production. 
 Sign up at http://tropo.com/
