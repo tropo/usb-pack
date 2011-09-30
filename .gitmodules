@@ -67,3 +67,18 @@
 [submodule "phono/demo"]
 	path = phono/demo
 	url = https://github.com/phono/barcamp-orlando-2011.git
+[submodule "applications/redis-demo"]
+	path = applications/redis-demo
+	url = git@github.com:tropo/tropo-redis.git
+[submodule "applications/CloudKnock"]
+	path = applications/CloudKnock
+	url = git@github.com:tropo/CloudKnock.git
+[submodule "applications/simpleMessage"]
+	path = applications/simpleMessage
+	url = https://github.com/tropo/simpleMessage
+[submodule "applictions/rails-reminders"]
+	path = applictions/rails-reminders
+	url = git@github.com:tropo/reminders.git
+[submodule "applications/rails-reminders"]
+	path = applications/rails-reminders
+	url = git@github.com:tropo/reminders.git

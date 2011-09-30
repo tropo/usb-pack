@@ -10,6 +10,11 @@ Makes posting to Rackspace Cloud Files as easy as uploading a file with a web
 form. Includes a demo application that sends Tropo recordings to your Cloud Files
 account. From http://github.com/akalsey/cloudfiles-poster
 
+CloudKnock
+----------
+
+Open the door at a coworking space using your phone.
+
 drupal-framework-demo
 ---------------------
 
@@ -36,6 +41,22 @@ phonepoll
 
 A Drupal module to allow phone and SMS voting on Drupal polls. From
 http://github.com/akalsey/phonepoll
+
+rails-reminders
+---------------
+
+Schedule reminders through a Ruby on Rails powered web site and send them 
+out via SMS and Tropo.
+
+redis-demo
+----------
+
+Using Node.JS, Tropo, and Redis together.
+
+simpleMessage
+-------------
+
+Send and receive SMS with a REST interface and Tropo
 
 tropo-agitate 
 -------------
